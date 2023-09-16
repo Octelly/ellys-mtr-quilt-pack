@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eb2e807f1cc899706436e28617257b3c8034edf23b63612d850c28f3ea91325
+size 328
+=======
 name = "WETS (WorldEdit Tick Spreader)"
 filename = "WETS-0.0.4-fabric.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "a3ef00c051d50b2c7b3fbbdd5929ab6cc798481c"
 [update.modrinth]
 mod-id = "S0GwusT4"
 version = "MLaVuKwE"
+>>>>>>> c9c9b6c (Initial commit)

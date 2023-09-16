@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2554bdfcafa574bb434235c662f29046d892a9b1de39dcbca5ce732d93973f1
+size 342
+=======
 name = "Sydney Trains & More - MTR"
 filename = "Sydney Trains and More.zip"
 side = "client"
@@ -11,3 +16,4 @@ hash = "e199e8a9570a5b37359107e4450ff9e3c37afa98"
 [update.modrinth]
 mod-id = "KoWaNnkl"
 version = "xzNtmHHR"
+>>>>>>> c9c9b6c (Initial commit)

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:f25e49ca19098f7488d30092719c0a8e480da5f01b6e7069bf1093fea82c80a8
+size 328
+=======
 name = "FastQuit"
 filename = "fastquit-2.1.0+1.19-1.19.2.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "f3d977524174445f8bebd1203114f99bd5c5a89a"
 [update.modrinth]
 mod-id = "x1hIzbuY"
 version = "ahUi4sBL"
+>>>>>>> c9c9b6c (Initial commit)

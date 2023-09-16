@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:24a812099ce2ad28bd3190b83bb324b4f6daa01662a4df75d052d40201cb6638
+size 322
+=======
 name = "Convenient Decor"
 filename = "convenientdecor-0.2.0.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "23c1b5b714cdc11927d7734fa98e6b930f13e416"
 [update.modrinth]
 mod-id = "gMWAhU1n"
 version = "heg2WqKa"
+>>>>>>> c9c9b6c (Initial commit)

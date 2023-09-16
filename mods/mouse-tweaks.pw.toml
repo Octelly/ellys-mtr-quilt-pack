@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede
+size 346
+=======
 name = "Mouse Tweaks"
 filename = "MouseTweaks-fabric-mc1.19-2.22.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "6004ccf55a3013c54fdbef3b28613c3326231d2c"
 [update.modrinth]
 mod-id = "aC3cM3Vq"
 version = "pmMCbsN3"
+>>>>>>> c9c9b6c (Initial commit)

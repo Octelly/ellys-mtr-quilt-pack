@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9
+size 316
+=======
 name = "oωo (owo-lib)"
 filename = "owo-lib-0.9.3+1.19.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "86a14dfac6a05d8ee78a331a2ce2a06382e1a271"
 [update.modrinth]
 mod-id = "ccKDOlHs"
 version = "yGLYmVnT"
+>>>>>>> c9c9b6c (Initial commit)

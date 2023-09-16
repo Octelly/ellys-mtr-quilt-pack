@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fcfd07570667771722befc821eccab31cc2c680a14f29d44eb950a6ca9d9e5a
+size 346
+=======
 name = "pv-addon-replaymod"
 filename = "pv-addon-replaymod-1.16+-2.0.0.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "e42a1337a07c974b2d0cacfd6a576971fbcbd671"
 [update.modrinth]
 mod-id = "4iTfB0AP"
 version = "vQBf4xXv"
+>>>>>>> c9c9b6c (Initial commit)

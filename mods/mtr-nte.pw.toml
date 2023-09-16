@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb8b612c3312b7b026170132b71ff6f3c031373151b30a17ab17cb21dea650c7
+size 330
+=======
 name = "Nemo's Transit Expansion"
 filename = "MTR-NTE-fabric-1.19.2-0.3.3.jar"
 side = "both"

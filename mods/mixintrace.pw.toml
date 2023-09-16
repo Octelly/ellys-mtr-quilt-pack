@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86
+size 322
+=======
 name = "MixinTrace"
 filename = "mixintrace-1.1.1+1.17.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "7fbb0130db0e427ee7180d304dfa65c46f0e3b69"
 [update.modrinth]
 mod-id = "sGmHWmeL"
 version = "LGYOH4RN"
+>>>>>>> c9c9b6c (Initial commit)

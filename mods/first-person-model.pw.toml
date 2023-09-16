@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf797403982ff9ad6b28abb7697740a41f1e8e37d1394033fca22a6eb1df1b8d
+size 392
+=======
 name = "First-person Model"
 filename = "firstperson-fabric-2.2.3-mc1.19.2.jar"
 side = "client"
@@ -15,3 +20,4 @@ version = "INcc4wk6"
 [option]
 optional = true
 default = false
+>>>>>>> c9c9b6c (Initial commit)

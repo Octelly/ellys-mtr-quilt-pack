@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885
+size 320
+=======
 name = "Continuity"
 filename = "continuity-2.0.2+1.19.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "b7f4060c66eee13fa1385da89090560de30358e1"
 [update.modrinth]
 mod-id = "1IjD5062"
 version = "Ql3Ho9eR"
+>>>>>>> c9c9b6c (Initial commit)

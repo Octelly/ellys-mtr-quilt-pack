@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:42cec81434ed26c3dfc0a0f091ec558cdab8c5239fbabc26f1549a3f81ef16fb
+size 390
+=======
 name = "3D Skin Layers"
 filename = "3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
 side = "client"
@@ -15,3 +20,4 @@ version = "JHapWF9O"
 [option]
 optional = true
 default = false
+>>>>>>> c9c9b6c (Initial commit)

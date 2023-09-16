@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceafb4a6175ac7c8dc90e4b0903450811fe26fc9cc23d8adcdd8cd7ce0cad9eb
+size 324
+=======
 name = "Raised"
 filename = "raised-fabric-1.19.2-2.0.0.jar"
 side = "client"

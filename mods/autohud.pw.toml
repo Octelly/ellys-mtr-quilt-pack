@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:811e814c2f7013f3ec8dc8b3181b7568245f461cacdd829558dedbeb5f173352
+size 445
+=======
 name = "Auto HUD"
 filename = "autohud-4.3+1.19.2-fabric.jar"
 side = "client"
@@ -16,3 +21,4 @@ version = "dnvF9to0"
 optional = true
 default = false
 description = "Auto-hiding hotbar for better immersion, highly configurable"
+>>>>>>> c9c9b6c (Initial commit)

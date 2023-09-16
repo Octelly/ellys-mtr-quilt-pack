@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837
+size 348
+=======
 name = "Sodium"
 filename = "sodium-fabric-mc1.19.2-0.4.4+build.18.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "227648dc4f6a8604bafc282612a6de47eff70cd8"
 [update.modrinth]
 mod-id = "AANobbMI"
 version = "rAfhHfow"
+>>>>>>> c9c9b6c (Initial commit)

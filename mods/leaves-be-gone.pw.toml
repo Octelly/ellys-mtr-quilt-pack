@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:408bba556516e21cfa25674fabca2e1da87f7db700a7b88c2cdf1025414b39a1
+size 344
+=======
 name = "Leaves Be Gone"
 filename = "LeavesBeGone-v4.0.1-1.19.2-Fabric.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "c03e67bb499f46700a58b8865fa1197a5a4b8ab3"
 [update.modrinth]
 mod-id = "AVq17PqV"
 version = "z8KS4NPS"
+>>>>>>> c9c9b6c (Initial commit)

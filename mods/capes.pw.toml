@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5ff51cdf133abc091eda828043e7f4472bba1faea1faacc41bb50ca8315b28
+size 323
+=======
 name = "Capes"
 filename = "capes-1.5.2+1.19.2-fabric.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "559e74951bd6bdec8d185eac33b64b2f12998562"
 [update.modrinth]
 mod-id = "89Wsn8GD"
 version = "loGr3PwQ"
+>>>>>>> c9c9b6c (Initial commit)

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a
+size 341
+=======
 name = "pv-addon-soundphysics"
 filename = "pv-addon-soundphysics-1.0.1.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "1b9e6e312ed055187af3f8e670ca5e57b124efc0"
 [update.modrinth]
 mod-id = "K1y8brkJ"
 version = "UNgY2UqF"
+>>>>>>> c9c9b6c (Initial commit)

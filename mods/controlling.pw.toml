@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578
+size 343
+=======
 name = "Controlling"
 filename = "Controlling-fabric-1.19.2-10.0+7.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "73b4c80d6d834a10fce677cd205d4eabe9c6d8a0"
 [update.modrinth]
 mod-id = "xv94TkTM"
 version = "7mGcFotW"
+>>>>>>> c9c9b6c (Initial commit)

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a54931f4be77baa4a32bfb3f2b343d8d2af2efaa0aa6cf83e9a9d682cf4298
+size 349
+=======
 name = "Resourceful Lib"
 filename = "resourcefullib-fabric-1.19.2-1.1.24.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "aaf8fccd57dabc8bbb7302741a4da2418908e20f"
 [update.modrinth]
 mod-id = "G1hIVOrD"
 version = "mxiPijSw"
+>>>>>>> c9c9b6c (Initial commit)

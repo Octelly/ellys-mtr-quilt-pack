@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c
+size 365
+=======
 name = "Forge Config API Port"
 filename = "ForgeConfigAPIPort-v4.2.11-1.19.2-Fabric.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "00d05a6d57ee557ab216de5527e1434e3cf50c24"
 [update.modrinth]
 mod-id = "ohNO6lps"
 version = "3VCgXZ79"
+>>>>>>> c9c9b6c (Initial commit)

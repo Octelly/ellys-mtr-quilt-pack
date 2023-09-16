@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558
+size 350
+=======
 name = "Entity Culling"
 filename = "entityculling-fabric-1.6.1-mc1.19.2.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "534d7dc7a3f241300e09e7e95d3ae5d4ee5be886"
 [update.modrinth]
 mod-id = "NNAgCjsB"
 version = "twdGLDHv"
+>>>>>>> c9c9b6c (Initial commit)

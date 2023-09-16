@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905
+size 251
+=======
 name = "WorldEdit"
 filename = "worldedit-mod-7.2.12.jar"
 side = "both"
@@ -11,3 +16,4 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3922622
 project-id = 225608
+>>>>>>> c9c9b6c (Initial commit)

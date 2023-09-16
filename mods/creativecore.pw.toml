@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:f56a9c6bd8794310c23f32b9d57b34a892a432d1e62546599e523dd5106c1480
+size 346
+=======
 name = "CreativeCore"
 filename = "CreativeCore_FABRIC_v2.9.4_mc1.19.2.jar"
 side = "both"
@@ -11,3 +16,4 @@ hash = "2107ce92262aa68771168b67fe180bf8336c214c"
 [update.modrinth]
 mod-id = "OsZiaDHq"
 version = "ug21xEGt"
+>>>>>>> c9c9b6c (Initial commit)

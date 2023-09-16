@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ae8dcbdfa0bd670013aa6aa1d0471f628432293fb8085c403ddf0dac1c59624
+size 263
+=======
 name = "Auto Config Updated API"
 filename = "autoconfig1u-3.4.0.jar"
 side = "both"
@@ -11,3 +16,4 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3668220
 project-id = 373261
+>>>>>>> c9c9b6c (Initial commit)

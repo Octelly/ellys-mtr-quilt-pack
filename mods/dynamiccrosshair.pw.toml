@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0f760a534bc004d0b5b4799c98501fdb9d4aa7ffe08e5d3d0fedb5e45c47ae4
+size 466
+=======
 name = "Dynamic Crosshair"
 filename = "dynamiccrosshair-5.6.2+1.19.2-fabric.jar"
 side = "client"
@@ -16,3 +21,4 @@ version = "H2k9LvrK"
 optional = true
 default = false
 description = "Crosshair changes and or hides as appropriate, highly configurable"
+>>>>>>> c9c9b6c (Initial commit)

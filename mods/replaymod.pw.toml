@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d0f64167691407fc06494f18d00246d072be0081a56cc6a34abbf9bb8c3324
+size 321
+=======
 name = "ReplayMod"
 filename = "replaymod-1.19.2-2.6.13.jar"
 side = "client"
@@ -11,3 +16,4 @@ hash = "b2417d5e719daf0696a879287fdae2c1bf9df68f"
 [update.modrinth]
 mod-id = "Nv2fQJo5"
 version = "EtYipT0o"
+>>>>>>> c9c9b6c (Initial commit)
