@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/static.yml"
+hash = "8febd78f6df699250fafe9824b34b11980ca393e4861cad05bce3e8915b77ec7"
+
+[[files]]
 file = "config/openloader/data/remove-terralith-intro-message.pw.toml"
 hash = "5c1c56e92403716241db0dc4cce13ca9a9a4fc3afe3bbae5c17e36d53d607328"
 metafile = true
@@ -46,8 +50,13 @@ hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "d1606abb23931260434ff37f0f9ade3f0d364e20ac1b4a94c3b08ca2423a9dff"
+metafile = true
+
+[[files]]
 file = "mods/armorstandeditor.pw.toml"
-hash = "05ad8e917843bc4cb4e7a6ba40fcfe07051b60d201d3aa54fab72cc50cc51ed2"
+hash = "7f47f180dd72f1eca806c3a89084a2bc6b70c213fd50a6a7cbdd5b42582e8fa4"
 metafile = true
 
 [[files]]
@@ -61,8 +70,38 @@ hash = "811e814c2f7013f3ec8dc8b3181b7568245f461cacdd829558dedbeb5f173352"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "34ddf7c6b936f4ec2fb4190414fa4bd4f08f9ba66656eb8333aa6062bf83f79e"
+metafile = true
+
+[[files]]
 file = "mods/beautify-refabricated.pw.toml"
 hash = "2328456577abf088917a2e855afddd1a72ae752ee2bb8b1a5f64127b36c25141"
+metafile = true
+
+[[files]]
+file = "mods/blossomback.pw.toml"
+hash = "47a4a43aa5578a1d8bdcb8d46adb1a4ecf9e104cf0410e46bc3d8134d64f3696"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "fbeba21e61a79b1e9098c29b9b55416e0063b0d0f82bd8160384d75b7a614b5a"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "7090d32a3a5e9ece6207171b7280816b36f9d5660bbc745d46c5bdbfd2fb7193"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "d8e7c4a9b07b1710e2a9f8fc8e7a36b7929d6962acaa7bcf7005a24b827bb10a"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "a793eff17578b6b40a2c2ecc597bda00894024d3261b2c6fcde6d91069511cc0"
 metafile = true
 
 [[files]]
@@ -197,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "809d881d49a5535025e3ed3b74ae714bfbec405e4b7fae234a4bdd51691e0b3a"
+hash = "f61dec45bb2ff78732c5348487ff9336dab87ae80cee4ad61fb43efe5ddd027b"
 metafile = true
 
 [[files]]
@@ -208,11 +247,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
-metafile = true
-
-[[files]]
-file = "mods/essential-commands.pw.toml"
-hash = "5249c3bff7cc6111738a3dd8765df7112a092dfb5542e5d95c09ecd14a2da135"
 metafile = true
 
 [[files]]
@@ -266,8 +300,18 @@ hash = "b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c"
 metafile = true
 
 [[files]]
+file = "mods/headindex.pw.toml"
+hash = "e02618f0d2b2c773602da8382dde5d0de34c05f934035654ec9989bb282416c0"
+metafile = true
+
+[[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "70080a609cbd1c299e0d7c67fd624962193767e6e7f126d53beadb9ef344164f"
 metafile = true
 
 [[files]]
@@ -278,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
 metafile = true
 
 [[files]]
@@ -303,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -363,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c6705186e23c5c3cb91f92af4a48be356cd6a18e384a0e1fa9616125f734f201"
+metafile = true
+
+[[files]]
+file = "mods/mods-command.pw.toml"
+hash = "9a0979c57e0a66fc4f211e8f82802bbf0bfc50d942ee0e08a91c4c0649f4d536"
 metafile = true
 
 [[files]]
@@ -486,6 +545,11 @@ hash = "39bced159e83bc8b6f4a7707cd51ee7307417e45c7c1eb3859750ff9550498ae"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
@@ -536,8 +600,18 @@ hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "a5a309b6a4086e05148b6627ebf610993d887d95400a591fdcb2b8d5651d9dde"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
 metafile = true
 
 [[files]]
