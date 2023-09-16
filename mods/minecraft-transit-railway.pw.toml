@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a
 size 353
+=======
+name = "Minecraft Transit Railway"
+filename = "MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XKPAmI6u/versions/H0yHV2yE/MTR-fabric-1.19.2-3.2.2-hotfix-1.jar"
+hash-format = "sha1"
+hash = "eb9ef66565792eae34882a2f52d1a595aa5e7b89"
+
+[update]
+[update.modrinth]
+mod-id = "XKPAmI6u"
+version = "H0yHV2yE"
+>>>>>>> c9c9b6c (Initial commit)

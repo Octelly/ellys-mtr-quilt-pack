@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:2328456577abf088917a2e855afddd1a72ae752ee2bb8b1a5f64127b36c25141
 size 344
+=======
+name = "Beautify: Refabricated"
+filename = "beautify-1.1.1+fabric-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/Um4xHnUP/beautify-1.1.1%2Bfabric-1.19.2.jar"
+hash-format = "sha1"
+hash = "9147f70267baeea55f92d51306f9cd5672c7cb9f"
+
+[update]
+[update.modrinth]
+mod-id = "DhSSvaxs"
+version = "Um4xHnUP"
+>>>>>>> c9c9b6c (Initial commit)

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:aaf17dbf6d8525f472c4b6b533499feb2b807aac179c0e8370f2225447e0169f
 size 337
+=======
+name = "ModernFix"
+filename = "modernfix-fabric-5.7.2+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/88ksqzbj/modernfix-fabric-5.7.2%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "d85194c59b74debdf335b456739015ac4dcb5d62"
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "88ksqzbj"
+>>>>>>> c9c9b6c (Initial commit)

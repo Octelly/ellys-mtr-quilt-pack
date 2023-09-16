@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:631a4aeea3ca16afe689e67c409cb39d18af269e1eecd944d042a85a88d34314
 size 328
+=======
+name = "More Culling"
+filename = "moreculling-1.19.1-0.17.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/5hjaMcPN/moreculling-1.19.1-0.17.0.jar"
+hash-format = "sha1"
+hash = "bb08f735f0005d9fb219d71682f667dd6db41c7d"
+
+[update]
+[update.modrinth]
+mod-id = "51shyZVL"
+version = "5hjaMcPN"
+>>>>>>> c9c9b6c (Initial commit)

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:d219df2db86da778604ecd0eae3ac5850d8deed6185438ecd72ae0953f0dbd44
 size 332
+=======
+name = "Convenient Name Tags"
+filename = "convenientnametags-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eUsHC1iS/versions/HHgPc9X0/convenientnametags-1.0.0.jar"
+hash-format = "sha1"
+hash = "7265e92b4eb9bd571277e35c6e45eb44bc5d7436"
+
+[update]
+[update.modrinth]
+mod-id = "eUsHC1iS"
+version = "HHgPc9X0"
+>>>>>>> c9c9b6c (Initial commit)

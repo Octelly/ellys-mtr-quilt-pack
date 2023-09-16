@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635
 size 316
+=======
+name = "Indium"
+filename = "indium-1.0.9+mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTfou6df/indium-1.0.9%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "a74ab16af990cf55dd1a3b5c76eadfc9ca25e25e"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "yTfou6df"
+>>>>>>> c9c9b6c (Initial commit)

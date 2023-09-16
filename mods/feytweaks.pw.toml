@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:738f853ae75bdace8c5b9acecec03c8d5dcc7d832404b32c0996976008012f72
 size 315
+=======
+name = "FeyTweaks"
+filename = "feytweaks-1.19-1.2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wa72oW2W/versions/AdBJ4xOW/feytweaks-1.19-1.2.6.jar"
+hash-format = "sha1"
+hash = "5579a5888f6bcda997d11d07b5e438a2e61b0c4d"
+
+[update]
+[update.modrinth]
+mod-id = "Wa72oW2W"
+version = "AdBJ4xOW"
+>>>>>>> c9c9b6c (Initial commit)

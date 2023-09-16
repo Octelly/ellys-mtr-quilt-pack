@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:39bced159e83bc8b6f4a7707cd51ee7307417e45c7c1eb3859750ff9550498ae
 size 337
+=======
+name = "Remove Reloading Screen"
+filename = "Rrls-1.19.2-3.1.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZP7xHXtw/versions/5O0zAOYM/Rrls-1.19.2-3.1.1-fabric.jar"
+hash-format = "sha1"
+hash = "e043dabc2c05dd515511cbbc41f302d1a2a98048"
+
+[update]
+[update.modrinth]
+mod-id = "ZP7xHXtw"
+version = "5O0zAOYM"
+>>>>>>> c9c9b6c (Initial commit)

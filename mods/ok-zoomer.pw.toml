@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a
 size 342
+=======
+name = "Ok Zoomer"
+filename = "ok_zoomer-5.0.0-beta.9+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/5.0.0-beta.9%2B1.19/ok_zoomer-5.0.0-beta.9%2B1.19.jar"
+hash-format = "sha1"
+hash = "a4a39502796a8bae98d4334aba973fb861d30110"
+
+[update]
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "vNZwWPKn"
+>>>>>>> c9c9b6c (Initial commit)

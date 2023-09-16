@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:0b4ab8b41df1e4b3b15c6cb932f9aacc29899e6b0e4545d4f05e5929c648c593
 size 339
+=======
+name = "Open Loader"
+filename = "OpenLoader-Fabric-1.19.2-15.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/Gd1498QQ/OpenLoader-Fabric-1.19.2-15.0.1.jar"
+hash-format = "sha1"
+hash = "5c9aa1cce1402abddf210ce0c685c39f2fd9ec25"
+
+[update]
+[update.modrinth]
+mod-id = "KwWsINvD"
+version = "Gd1498QQ"
+>>>>>>> c9c9b6c (Initial commit)

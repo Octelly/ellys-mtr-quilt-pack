@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:b92f07d5a77d6dfff1a693dae256925da90483633835a4c307c95d28a12f372c
 size 337
+=======
+name = "Handcrafted"
+filename = "handcrafted-fabric-1.19.2-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/v0XitsjG/handcrafted-fabric-1.19.2-2.0.6.jar"
+hash-format = "sha1"
+hash = "d64eeadc7dd3c64a8467754f85bc7c10f0b46cf5"
+
+[update]
+[update.modrinth]
+mod-id = "pJmCFF0p"
+version = "v0XitsjG"
+>>>>>>> c9c9b6c (Initial commit)

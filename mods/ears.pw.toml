@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4
 size 375
+=======
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-fabric-1.19-1.4.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.6%2Bfabric-1.19/ears-fabric-1.19-1.4.6.jar"
+hash-format = "sha1"
+hash = "7c3626834c332f7de37b57298b39bf5dfbc2a714"
+
+[update]
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "qZkbcILO"
+>>>>>>> c9c9b6c (Initial commit)

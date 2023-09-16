@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50
 size 354
+=======
+name = "Sodium Extra"
+filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar"
+hash-format = "sha1"
+hash = "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "MTxUvPFz"
+>>>>>>> c9c9b6c (Initial commit)

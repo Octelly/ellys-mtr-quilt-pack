@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d
 size 306
+=======
+name = "Puzzle"
+filename = "puzzle-1.4.2-1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/NwemUTyO/puzzle-1.4.2-1.19.jar"
+hash-format = "sha1"
+hash = "86a07e717d9325761a468cc1a521efa5b4de715d"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "NwemUTyO"
+>>>>>>> c9c9b6c (Initial commit)

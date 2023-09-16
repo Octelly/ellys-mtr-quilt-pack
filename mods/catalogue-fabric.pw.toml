@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:464692bd05c1e27dac71088167ae0b037b2161f4ce8ca5cef6a34d4bdee77231
 size 271
+=======
+name = "Catalogue (Fabric)"
+filename = "catalogue-fabric-1.7.0-1.19.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bf89ad58ab60991554ea51fcbc4c5e00dea82f3c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4171029
+project-id = 667377
+>>>>>>> c9c9b6c (Initial commit)

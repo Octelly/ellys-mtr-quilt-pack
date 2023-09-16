@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:c7388b6ebb78040be98251fb064a009f3d7574133e15d2844e3fadf2929b2980
 size 335
+=======
+name = "Mixin Conflict Helper"
+filename = "MixinConflictHelper-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MR1VIQJJ/versions/8dRAFcey/MixinConflictHelper-1.2.0.jar"
+hash-format = "sha1"
+hash = "d25e635f1059d8eedbee106ca55ce12b7055a302"
+
+[update]
+[update.modrinth]
+mod-id = "MR1VIQJJ"
+version = "8dRAFcey"
+>>>>>>> c9c9b6c (Initial commit)

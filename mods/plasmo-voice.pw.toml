@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:e06509ba9ba4a25529e8a5a2c582b4adf01f52b091069e15ec7dd2f857ff3409
 size 338
+=======
+name = "Plasmo Voice"
+filename = "plasmovoice-fabric-1.19.2-2.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/s9MWFHzd/plasmovoice-fabric-1.19.2-2.0.6.jar"
+hash-format = "sha1"
+hash = "87693399d912ecb46e7d2b8ea73b93023ec38419"
+
+[update]
+[update.modrinth]
+mod-id = "1bZhdhsH"
+version = "s9MWFHzd"
+>>>>>>> c9c9b6c (Initial commit)

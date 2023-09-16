@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:93c329243ab16f36256c4757d6209b8aae31c9bd156a97b2be16ebe562cbfab0
 size 255
+=======
+name = "Chimes"
+filename = "Chimes-v2.0.1-1.19.2-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cacd0b3a1f5361188379b87a8d02aac6f0c00ec0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4671764
+project-id = 350464
+>>>>>>> c9c9b6c (Initial commit)

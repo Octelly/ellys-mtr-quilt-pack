@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da
 size 345
+=======
+name = "Memory Leak Fix"
+filename = "memoryleakfix-fabric-1.17+-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/dGlflhb6/memoryleakfix-fabric-1.17%2B-1.1.2.jar"
+hash-format = "sha1"
+hash = "b0eecb140bd124c781469aa0f48bc888072b4ac5"
+
+[update]
+[update.modrinth]
+mod-id = "NRjRiSSD"
+version = "dGlflhb6"
+>>>>>>> c9c9b6c (Initial commit)

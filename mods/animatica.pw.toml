@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca
 size 315
+=======
+name = "Animatica"
+filename = "animatica-0.5+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.19/animatica-0.5%2B1.19.jar"
+hash-format = "sha1"
+hash = "d58560b9c226df726bdddc7ab25748a158a0cb3d"
+
+[update]
+[update.modrinth]
+mod-id = "PRN43VSY"
+version = "rghK1s60"
+>>>>>>> c9c9b6c (Initial commit)

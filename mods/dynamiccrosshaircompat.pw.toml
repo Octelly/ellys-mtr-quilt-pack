@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:5993bdd1e0e317f09f6ef78b3a7d1aa2a385da5ef9fb711ca6b8f881f2b3e5cf
 size 406
+=======
+name = "Dynamic Crosshair Compat"
+filename = "dynamiccrosshair-compat-3.3.3+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EwPIWPJ9/versions/uFZuuvPl/dynamiccrosshair-compat-3.3.3%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "462e6624dc4e617d9c2923e407b2234208ac5e58"
+
+[update]
+[update.modrinth]
+mod-id = "EwPIWPJ9"
+version = "uFZuuvPl"
+
+[option]
+optional = true
+default = false
+>>>>>>> c9c9b6c (Initial commit)

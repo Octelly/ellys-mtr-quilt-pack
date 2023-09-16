@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:321d91a48c60079500f68ab2741d955f5dedab4d36c904ad8f2c21dc4531682e
 size 333
+=======
+name = "'Dustrial Decor Fabric"
+filename = "dustrial-decor-fabric-0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3UOoqLkR/versions/0.5.1/dustrial-decor-fabric-0.5.jar"
+hash-format = "sha1"
+hash = "93a88d15b6e6ec8663cbff61c319e32a8dfee6a7"
+
+[update]
+[update.modrinth]
+mod-id = "3UOoqLkR"
+version = "4YdVbKN7"
+>>>>>>> c9c9b6c (Initial commit)

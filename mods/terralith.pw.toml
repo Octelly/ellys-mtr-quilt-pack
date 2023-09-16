@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:64228ac782b244019e700da682e0006e9959f472035252c5a5354e0dc395d1e0
 size 321
+=======
+name = "Terralith"
+filename = "Terralith_1.19.3_v2.3.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/UJtMNPNx/Terralith_1.19.3_v2.3.11.jar"
+hash-format = "sha1"
+hash = "6453612bbcd341b3d72aa24323af1fa55dd87122"
+
+[update]
+[update.modrinth]
+mod-id = "8oi3bsk5"
+version = "UJtMNPNx"
+>>>>>>> c9c9b6c (Initial commit)

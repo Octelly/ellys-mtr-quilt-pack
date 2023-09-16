@@ -1,0 +1,13 @@
+name = "Reality City Construction"
+filename = "RCC-fabric-1.19.2-1.0.0-unofficial-7-SNAPSHOT-2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5zoE5R0N/versions/yPWR45iT/RCC-fabric-1.19.2-1.0.0-unofficial-7-SNAPSHOT-2.jar"
+hash-format = "sha1"
+hash = "fada584c2bf84dfca4725ff884baea705d36667f"
+
+[update]
+[update.modrinth]
+mod-id = "5zoE5R0N"
+version = "yPWR45iT"

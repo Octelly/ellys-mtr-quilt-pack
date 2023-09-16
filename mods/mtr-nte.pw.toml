@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:eb8b612c3312b7b026170132b71ff6f3c031373151b30a17ab17cb21dea650c7
 size 330
+=======
+name = "Nemo's Transit Expansion"
+filename = "MTR-NTE-fabric-1.19.2-0.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/hwV8kBZM/MTR-NTE-fabric-1.19.2-0.3.3.jar"
+hash-format = "sha1"
+hash = "3f48c0ca3c1c5798ddc1f7908741fe988cda40a0"
+
+[update]
+[update.modrinth]
+mod-id = "8pXSjgW8"
+version = "hwV8kBZM"
+>>>>>>> c9c9b6c (Initial commit)

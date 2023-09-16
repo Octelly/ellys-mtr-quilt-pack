@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:0db432c02731d82a1a7ec69f7b3bee6ef2e861268e23d8d22ee405b55ed3bd7f
 size 267
+=======
+name = "The Tube"
+filename = "MTR-LU-Addon-fabric-1.19.2-3.2.0-1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4af7957daab0d570b0e37b386ad4299562e335b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4503090
+project-id = 545686
+>>>>>>> c9c9b6c (Initial commit)

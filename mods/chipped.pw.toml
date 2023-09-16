@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa
 size 325
+=======
+name = "Chipped"
+filename = "chipped-fabric-1.19.2-2.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BAscRYKm/versions/UStkQaSp/chipped-fabric-1.19.2-2.1.5.jar"
+hash-format = "sha1"
+hash = "db6f75e465e18d5f223b9204005314ad2a9db72c"
+
+[update]
+[update.modrinth]
+mod-id = "BAscRYKm"
+version = "UStkQaSp"
+>>>>>>> c9c9b6c (Initial commit)

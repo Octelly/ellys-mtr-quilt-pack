@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:4cd77a3e67c2067473b39de944f292c3eb1ec3e765b311b96b8678ada999313f
 size 338
+=======
+name = "TransitManager"
+filename = "TransitManager-1.1.0+mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TF6m3mcW/versions/s1ysu8D8/TransitManager-1.1.0%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "1ff2c5c6ba94892966919d296d53cc44cfe9752a"
+
+[update]
+[update.modrinth]
+mod-id = "TF6m3mcW"
+version = "s1ysu8D8"
+>>>>>>> c9c9b6c (Initial commit)

@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 version https://git-lfs.github.com/spec/v1
 oid sha256:2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1
 size 348
+=======
+name = "Starlight (Fabric)"
+filename = "starlight-1.1.1+fabric.ae22326.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1%2B1.19/starlight-1.1.1%2Bfabric.ae22326.jar"
+hash-format = "sha1"
+hash = "de6fe932555604345477db89b59d59249909c640"
+
+[update]
+[update.modrinth]
+mod-id = "H8CaAYZC"
+version = "qH1xCwoC"
+>>>>>>> c9c9b6c (Initial commit)
