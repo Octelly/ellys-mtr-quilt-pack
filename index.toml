@@ -546,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
-hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
+hash = "0e21fa2d8b5fd242d053074972ae95305171ce4557560894e85c1f17ec591a5e"
 metafile = true
 
 [[files]]
