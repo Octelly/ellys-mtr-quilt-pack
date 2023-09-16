@@ -1,0 +1,13 @@
+name = "Trams4MC - MTR Addon"
+filename = "Trams4MC-1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/i1DLY6Km/versions/DFWV91qS/Trams4MC-1.0.zip"
+hash-format = "sha1"
+hash = "9b663592b4edc40de0fd68a6011fc9fcd79c659f"
+
+[update]
+[update.modrinth]
+mod-id = "i1DLY6Km"
+version = "DFWV91qS"
