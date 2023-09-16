@@ -466,11 +466,6 @@ hash = "58f89dc6acc4865aed27138ecc0acf2e23bf7836369f5336de494e3a4cb9884c"
 metafile = true
 
 [[files]]
-file = "mods/reality-c-c.pw.toml"
-hash = "37d438cf36fe72804ac371dfeb6a2bbe28f8be152c13e884c5f6b6109930bda0"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
