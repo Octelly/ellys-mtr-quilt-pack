@@ -381,6 +381,11 @@ hash = "b3501a7f76745c70f319a487ab71d553e43558c732890daa1abed779e194d09c"
 metafile = true
 
 [[files]]
+file = "mods/luckpermsplaceholders.pw.toml"
+hash = "4f1db6c9024f0963f2505253a5f33e61eacabfc0f405dde1a838cb53ad09dd41"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "6f04f2ea4d1325c80f94ea0add96a6a480dfe7eee9e1770c61a1a48c0ee54f3c"
 metafile = true
