@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:19c234dccae3896624b605a204e738f4117913f963210c1da27d696fe457e2d1
-size 388
-=======
 name = "Station Decoration"
 filename = "MTR-MSD-Addon-fabric-1.19.2-3.2.2-1.3.4-enhancement-1.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "0dec26bd85c59217fa1f28efe7314afab115dbc7"
 [update.modrinth]
 mod-id = "AM3NyLOZ"
 version = "MMs0xECf"
->>>>>>> c9c9b6c (Initial commit)

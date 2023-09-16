@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:14ff031a1e209fac65c3189a087f7cf5ea24bcc0bb13b46c04b0cff0806f2581
-size 363
-=======
 name = "Immersive Paintings"
 filename = "immersive_paintings-0.6.5+1.19.2-fabric.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "d4bacb173ad00c2246e778518d66607a4e5230da"
 [update.modrinth]
 mod-id = "6txNkua3"
 version = "7IUxKGO8"
->>>>>>> c9c9b6c (Initial commit)

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:423581d9738b23798456b7ba021698355ef8f03cef93d8c1266102a227d9a200
-size 336
-=======
 name = "Falling Leaves"
 filename = "fallingleaves-1.13.0+1.19.2.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "7472f0cbd986fb5620640469316d9fae924119f9"
 [update.modrinth]
 mod-id = "WhbRG4iK"
 version = "aufE28Na"
->>>>>>> c9c9b6c (Initial commit)

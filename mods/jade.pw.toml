@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7
-size 321
-=======
 name = "Jade 🔍"
 filename = "Jade-1.19.1-fabric-8.7.3.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "1b3cdd8639ff6083bcf68a76f76a38d1a0afcab7"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "ZASePpsm"
->>>>>>> c9c9b6c (Initial commit)

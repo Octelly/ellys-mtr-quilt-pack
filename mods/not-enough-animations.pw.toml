@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a
-size 369
-=======
 name = "Not Enough Animations"
 filename = "notenoughanimations-fabric-1.6.2-mc1.19.2.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "93d7ff7f8dd4b295cc24e7f44262b60629cfd937"
 [update.modrinth]
 mod-id = "MPCX6s5C"
 version = "KZmMUPjz"
->>>>>>> c9c9b6c (Initial commit)

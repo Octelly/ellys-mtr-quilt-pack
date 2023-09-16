@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416
-size 294
-=======
 name = "Krypton"
 filename = "krypton-0.2.1.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "ebf02e469c028ea9e548401cacbb62e434874c08"
 [update.modrinth]
 mod-id = "fQEb0iXm"
 version = "vx0mZa04"
->>>>>>> c9c9b6c (Initial commit)

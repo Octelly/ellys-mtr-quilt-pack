@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b
-size 353
-=======
 name = "AmbientSounds"
 filename = "AmbientSounds_FABRIC_v5.2.13_mc1.19.2.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "5977b2703f12121f92f00c6c4458fcff5f558e0c"
 [update.modrinth]
 mod-id = "fM515JnW"
 version = "HzAe7PdZ"
->>>>>>> c9c9b6c (Initial commit)

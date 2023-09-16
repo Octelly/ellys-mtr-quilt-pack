@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:4bc0b9eafd4413e2a74403600549807dca31a448ae00b85b791f5ce84d230661
-size 339
-=======
 name = "Sooty Chimneys for Fabric"
 filename = "SootyChimneysFabric-1.0.3.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "6065aa8ba5ec2736596cc770710367a1df3f061b"
 [update.modrinth]
 mod-id = "vSrrfcOl"
 version = "Uuyzh6dE"
->>>>>>> c9c9b6c (Initial commit)

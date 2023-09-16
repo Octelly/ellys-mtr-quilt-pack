@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170
-size 341
-=======
 name = "ExtraSounds"
 filename = "extrasounds-2.3.1+1.19.2-1.19.1.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "c43ac9ffe58cbf59b90eeb4be1a6aad40ebbfbfd"
 [update.modrinth]
 mod-id = "uPWCQrVL"
 version = "yV1SwVzK"
->>>>>>> c9c9b6c (Initial commit)

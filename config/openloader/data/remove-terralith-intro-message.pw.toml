@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:352bbd75887df2d8c2c181255a27d6aebc78dd52ee867c85a317a4e2b83a49fd
-size 362
-=======
 name = "Remove Terralith Intro Message"
 filename = "Remove_Terralith_Intro_Message_v1.0.zip"
 side = "both"
@@ -16,4 +11,3 @@ hash = "f537f697c60bc051fb8db8681b39f1dc051acb83"
 [update.modrinth]
 mod-id = "sk4iFZGy"
 version = "NI1eSGiS"
->>>>>>> c9c9b6c (Initial commit)

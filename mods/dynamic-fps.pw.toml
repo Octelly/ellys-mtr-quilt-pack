@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:b31179108f658fdc015f1eed9a3614d08b212de2e67b2391678d93e3e561c1f2
-size 347
-=======
 name = "Dynamic FPS"
 filename = "dynamic-fps-3.1.0+minecraft-1.19.0.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "3fe9310d982d7f02200f55ede49cefc80d00d954"
 [update.modrinth]
 mod-id = "LQ3K71Q1"
 version = "53FTYNg4"
->>>>>>> c9c9b6c (Initial commit)

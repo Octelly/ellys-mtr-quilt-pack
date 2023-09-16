@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8
-size 334
-=======
 name = "Cloth Config API"
 filename = "cloth-config-8.3.103-fabric.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "475ab5dec26fa5d25b1d899b8261b054fbc283d6"
 [update.modrinth]
 mod-id = "9s6osm5g"
 version = "o9dFD9SO"
->>>>>>> c9c9b6c (Initial commit)

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f
-size 390
-=======
 name = "Quilt Kotlin Libraries (QKL)"
 filename = "quilt-kotlin-libraries-1.0.2+kt.1.8.0+flk.1.9.0.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "7f68f8252573b5b76e1bdb30a8fe31f8237ddf83"
 [update.modrinth]
 mod-id = "lwVhp9o5"
 version = "4Ag1YF4s"
->>>>>>> c9c9b6c (Initial commit)

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:0b70a8f5db3e8d6bec198941f375a4fd56489e3b2330cf83a3c80bea28e8bf8f
-size 262
-=======
 name = "Menulogue"
 filename = "menulogue-fabric-1.19.2-1.0.4.jar"
 side = "client"
@@ -16,4 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4620806
 project-id = 682371
->>>>>>> c9c9b6c (Initial commit)

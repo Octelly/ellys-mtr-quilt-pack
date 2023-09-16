@@ -1,18 +1,13 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:e75e34f9cbff76ce7a0beb9f70521eef8ae7c2efc498f3f77c45d46f9dd6d5eb
-size 375
-=======
 name = "[EMF] Entity Model Features"
-filename = "entity_model_features_fabric_1.19.2-1.1.0.jar"
+filename = "entity_model_features_fabric_1.19.2-0.2.13.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/z5WFPrA6/entity_model_features_fabric_1.19.2-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/slWSM9OY/entity_model_features_fabric_1.19.2-0.2.13.jar"
 hash-format = "sha1"
-hash = "fc7a14407aefd352a87c67d75da2cd4782c8462e"
+hash = "6a148c8c121ecea0975c82d8c328b7e8f1f33a4e"
 
 [update]
 [update.modrinth]
 mod-id = "4I1XuqiY"
-version = "z5WFPrA6"
+version = "slWSM9OY"

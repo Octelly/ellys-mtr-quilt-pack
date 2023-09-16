@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05
-size 321
-=======
 name = "Effective"
 filename = "effective-2.1.1+1.19.2.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "b77ddea5164fd55398c22f6065220c1fedf0dfa4"
 [update.modrinth]
 mod-id = "pcPXJeZi"
 version = "oKm6MarD"
->>>>>>> c9c9b6c (Initial commit)

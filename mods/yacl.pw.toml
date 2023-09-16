@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e
-size 355
-=======
 name = "YetAnotherConfigLib"
 filename = "YetAnotherConfigLib-2.2.0-for-1.19.2.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "bcb8adacdb11b49fde416df76a55f6bc0ca48cfd"
 [update.modrinth]
 mod-id = "1eAoo2KR"
 version = "bIVYcRpm"
->>>>>>> c9c9b6c (Initial commit)

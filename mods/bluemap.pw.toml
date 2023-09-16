@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc
-size 321
-=======
 name = "BlueMap"
 filename = "BlueMap-3.13-fabric-1.19.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "ae3439881857976e643bb8990827dba42efb8948"
 [update.modrinth]
 mod-id = "swbUV1cr"
 version = "51epxpKG"
->>>>>>> c9c9b6c (Initial commit)
