@@ -21,6 +21,11 @@ hash = "42cec81434ed26c3dfc0a0f091ec558cdab8c5239fbabc26f1549a3f81ef16fb"
 metafile = true
 
 [[files]]
+file = "mods/affectionate.pw.toml"
+hash = "57c751a13a63e24201f0880a88376e3f5ae11b865863ebfc21f3333469f0cee8"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "c7330ba6abcb6f74e184ac970ff66d8efbea5cb3e4cd747b9d1ae14aaac9279e"
 metafile = true
