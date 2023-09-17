@@ -1,0 +1,16 @@
+{
+  "id": "default",
+  "name": "Default",
+  "header": [
+    "<gray>Elly's</gray> <c:#b42249>MTR</c> <c:#9722ff>Q<c:#dc29dd>u<c:#27a2fd>i<c:#3344ff>l<c:#9722ff>t<reset> <gray>pack</gray>",
+    "%server:online%<gray>/</gray>%server:max_players%",
+    ""
+  ],
+  "footer": [
+    "",
+    "<bold>TPS</bold>",
+    "<gray>1m: %spark:tps 1m% | 15m: %spark:tps 15m%"
+  ],
+  "hidden": false,
+  "permission": ""
+}

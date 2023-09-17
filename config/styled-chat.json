@@ -19,7 +19,7 @@
   "default": {
     "display_name": "${default}",
     "message_formats": {
-      "chat": "<dark_gray>[<reset>%luckperms:prefix%<dark_gray>]<reset> ${player} <dark_gray>|<reset> ${message}",
+      "chat": "<dark_gray>[<reset>%luckperms:prefix%<dark_gray>]<reset> ${player} <gray><hover:show_text:'pronouns'>%playerpronouns:pronouns ???/???%</hover><reset> <dark_gray>|<reset> ${message}",
       "joined_the_game": "<green>→<reset> %luckperms:prefix% <gray>${player}<reset>",
       "joined_after_name_change": "<yellow>→<reset> %luckperms:prefix% <gray>${player} (${old_name}) <reset>",
       "joined_for_first_time": "<green><bold>new<reset> <gray>${player}<reset>",
