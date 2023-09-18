@@ -97,31 +97,6 @@ hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
 metafile = true
 
 [[files]]
-file = "mods/blossomback.pw.toml"
-hash = "47a4a43aa5578a1d8bdcb8d46adb1a4ecf9e104cf0410e46bc3d8134d64f3696"
-metafile = true
-
-[[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "fbeba21e61a79b1e9098c29b9b55416e0063b0d0f82bd8160384d75b7a614b5a"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "7090d32a3a5e9ece6207171b7280816b36f9d5660bbc745d46c5bdbfd2fb7193"
-metafile = true
-
-[[files]]
-file = "mods/blossomtpa.pw.toml"
-hash = "d8e7c4a9b07b1710e2a9f8fc8e7a36b7929d6962acaa7bcf7005a24b827bb10a"
-metafile = true
-
-[[files]]
-file = "mods/blossomwarps.pw.toml"
-hash = "a793eff17578b6b40a2c2ecc597bda00894024d3261b2c6fcde6d91069511cc0"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "9aad0aeed9cb635aa6e1c96880f3eefb15c319dd3d38e6731ac2fc41d50a4adc"
 metafile = true
@@ -277,6 +252,11 @@ hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
 metafile = true
 
 [[files]]
+file = "mods/essentialaddons.pw.toml"
+hash = "c8183377f45125218881b985421e08e728800a7db1f42e091310ae9a6e853b18"
+metafile = true
+
+[[files]]
 file = "mods/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
@@ -334,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/hold-that-chunk.pw.toml"
 hash = "8847ebb401a474d65b2ffd00a226356e94791db3f5cf98505beb227e74298884"
+metafile = true
+
+[[files]]
+file = "mods/huskhomes.pw.toml"
+hash = "e5eb23504f8910229b76507cb93528d12d3470135c10b5e26724e0943c7067ca"
 metafile = true
 
 [[files]]
