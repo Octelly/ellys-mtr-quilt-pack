@@ -212,6 +212,11 @@ hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
+file = "mods/discord4fabric.pw.toml"
+hash = "251dc5b300f7bfe3d609c2bc693988cb079727d572e17fb6129a1ae3517daf69"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "31dcc63fce27be038c1ae6501bba6b9e4c41c7218b8f970059f6b4f33d82c45b"
 metafile = true
