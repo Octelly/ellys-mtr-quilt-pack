@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/feytweaks.json"
+hash = "fb9ac760b530986dd8375ee42b771c642978f5cc3026083e1711e1ef6e36ba66"
+
+[[files]]
 file = "config/openloader/data/remove-terralith-intro-message.pw.toml"
 hash = "5c1c56e92403716241db0dc4cce13ca9a9a4fc3afe3bbae5c17e36d53d607328"
 metafile = true
@@ -17,7 +21,15 @@ metafile = true
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "5795a067b01fa777f9a997ad17f8e064a16896270ecba5f4a97cdbd8d3771171"
+hash = "b4564e92a3b385e1580e30a0b083440b84ac9bfe9f55635ccf2351d5396041ac"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "041a6e78e1d4e154a9376921090ba4701a766cc9bdbd6dce058c9ae0571791bb"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "b303dd2c4552fd629bc924185c1d8846828e821d06ec4d64e2274b135f56c708"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -546,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/realisticcities.pw.toml"
-hash = "58f89dc6acc4865aed27138ecc0acf2e23bf7836369f5336de494e3a4cb9884c"
+hash = "574553521f5f05970bac96947d2b1c113d50ae375c5f6c76da1358c0691f8ca4"
 metafile = true
 
 [[files]]
@@ -651,7 +663,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "24c5360aa4598486b3ef314583b2494762f66e9b578fe31b48d804f1cce95996"
+hash = "aca72bb930f282a424763ae45f941f1c0ff17810c9ac4ed59bdd29b903657927"
 metafile = true
 
 [[files]]
