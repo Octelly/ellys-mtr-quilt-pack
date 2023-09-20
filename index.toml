@@ -182,6 +182,11 @@ hash = "f56a9c6bd8794310c23f32b9d57b34a892a432d1e62546599e523dd5106c1480"
 metafile = true
 
 [[files]]
+file = "mods/customhud.pw.toml"
+hash = "23813d4ca5f22722ebeb5b652d4d570ffa13686fcbf400504554694810ba3ba5"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "5da34b344a9a6631a2a7218c64508f583fc74617f8afa5b343f1fcd1409c5d71"
 metafile = true
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "9285fdb5c083515cb5e88a3635bdd165f3d3fd046988c9781d55deac4b70ddb4"
+hash = "412a4e301d17d209200eb260f84b723876aa1f5747cb869180a2b17250372d63"
 metafile = true
 
 [[files]]
@@ -574,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "0e21fa2d8b5fd242d053074972ae95305171ce4557560894e85c1f17ec591a5e"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a5e126f6ad485daa023fd7c96dda1ed42b30209b94162497422e71e702394fd8"
 metafile = true
 
 [[files]]
