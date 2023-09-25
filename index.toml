@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
+hash = "b2418ea39fdf365d839f2ecf6b3811552f9c95fe6bd673b612020856b4e07c73"
 metafile = true
 
 [[files]]
@@ -242,8 +242,13 @@ hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "1af331f149591f52845722de0191eabd889e924b54f300879753bb1270b00485"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f61dec45bb2ff78732c5348487ff9336dab87ae80cee4ad61fb43efe5ddd027b"
+hash = "f1f4cef85b4ea61d483c1051e967d109e7ebcd059171bf868e832a0326d22450"
 metafile = true
 
 [[files]]
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-melodies.pw.toml"
-hash = "70080a609cbd1c299e0d7c67fd624962193767e6e7f126d53beadb9ef344164f"
+hash = "fd45d400a8a5eee74ab59486103f33d552aba1a6df2ce3835e975ed730c0bc1e"
 metafile = true
 
 [[files]]
@@ -438,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c6705186e23c5c3cb91f92af4a48be356cd6a18e384a0e1fa9616125f734f201"
+hash = "088d7693dae653ff299d1454674e29ab3b1649cf889c5ecd32ccced2b0c48472"
 metafile = true
 
 [[files]]
@@ -493,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/ping-wheel.pw.toml"
-hash = "abd120be769d48f7e6a6d20fb14a0e94aa4edbd0914dd632b727028730ea3cb4"
+hash = "6ac7786f53a8f459b7d8af80fc6858d3dd3ecf610c96ce70649344941a7a2d82"
 metafile = true
 
 [[files]]
@@ -589,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
+metafile = true
+
+[[files]]
+file = "mods/sidekick.pw.toml"
+hash = "17550dad30bf938757af3e2852b021683eec3dfccc77e5acb666614ccf1a4835"
 metafile = true
 
 [[files]]
