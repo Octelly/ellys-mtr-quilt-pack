@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-command-permissions-fabric.pw.toml"
-hash = "ddbb995f6a62246a1a9a979f2b03f637be47211bdd0ece5c7500dd0a99a48c45"
+hash = "0d3eb5527bd3c817cc2a4d89d63aba8fa3d986c3178ff2ffa10edb4cf2f483bb"
 metafile = true
 
 [[files]]

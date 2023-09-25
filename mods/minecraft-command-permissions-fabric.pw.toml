@@ -1,5 +1,6 @@
 name = "minecraft-command-permissions-fabric"
 filename = "minecraft-command-permissions-1.6.1.jar"
+sider = "server"
 
 [download]
 url = "https://github.com/lucko/minecraft-command-permissions-fabric/releases/download/v1.6.1/minecraft-command-permissions-1.6.1.jar"
