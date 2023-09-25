@@ -422,6 +422,11 @@ hash = "0b70a8f5db3e8d6bec198941f375a4fd56489e3b2330cf83a3c80bea28e8bf8f"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-command-permissions-fabric.pw.toml"
+hash = "ddbb995f6a62246a1a9a979f2b03f637be47211bdd0ece5c7500dd0a99a48c45"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "a8c9353a4a5b4d08823f39e13dd10f04e1c884e5fa5aedae511a26d111a76d8a"
 metafile = true
