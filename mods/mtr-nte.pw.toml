@@ -1,13 +1,13 @@
 name = "Nemo's Transit Expansion"
-filename = "MTR-NTE-0.4.0+1.19.2.jar"
+filename = "MTR-NTE-0.4.1+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/cMJpMBlV/MTR-NTE-0.4.0%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/KsEFojWD/MTR-NTE-0.4.1%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "824171d693235c4dcdbfd75b8971a988dd31a935"
+hash = "3dc3366d0bd6a64f234479f3e5513a1e6ab33c5c"
 
 [update]
 [update.modrinth]
 mod-id = "8pXSjgW8"
-version = "cMJpMBlV"
+version = "KsEFojWD"

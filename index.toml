@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "6d8aff1890fddf88884c516484b9bc774088222228f3ee2ded5bee376548e3a2"
+hash = "99b425ee377426a557730872870b09d387787c20b7dc3956b8dc7e9f33782e50"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
-hash = "412a4e301d17d209200eb260f84b723876aa1f5747cb869180a2b17250372d63"
+hash = "14ff031a1e209fac65c3189a087f7cf5ea24bcc0bb13b46c04b0cff0806f2581"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "088d7693dae653ff299d1454674e29ab3b1649cf889c5ecd32ccced2b0c48472"
+hash = "e92b8d83b1c7cbf0245dd3588a4b9653d77a21d2b01c33951e35b03fb87f110b"
 metafile = true
 
 [[files]]
@@ -473,7 +473,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "d31d4da74a22b7e2216e7eac16a3dc873aeded67c6b17b8ff25e693382d581ef"
+hash = "eb8b612c3312b7b026170132b71ff6f3c031373151b30a17ab17cb21dea650c7"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "ad53d81ddd892b277f125635b4590204a08cb9b237b388e5881bb0c784f0837d"
+hash = "e06509ba9ba4a25529e8a5a2c582b4adf01f52b091069e15ec7dd2f857ff3409"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "967cbd181fb2003617e19806b005423226471940b1482e6647c8770ed3bbd6dd"
+hash = "7deccc84b9935507b7fd238ccea7315c604932c2ac74ea4095ea3ee176a11885"
 metafile = true
 
 [[files]]
