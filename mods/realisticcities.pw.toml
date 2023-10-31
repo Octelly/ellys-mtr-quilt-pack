@@ -1,13 +1,13 @@
 name = "Realistic Cities"
-filename = "realisticcities-0.4-HOTFIX-1-1.19.2.jar"
+filename = "realisticcities-0.4-1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DcRbwAds/versions/8CPbp6OT/realisticcities-0.4-HOTFIX-1-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/DcRbwAds/versions/Hfqh79Wm/realisticcities-0.4-1.19.2.jar"
 hash-format = "sha1"
-hash = "03e1ed1c8d45e3119a9b6a1c8a9bbd0ec4c14346"
+hash = "4f65912fab2360d09e8b35d7b4ea08fd48bb6222"
 
 [update]
 [update.modrinth]
 mod-id = "DcRbwAds"
-version = "8CPbp6OT"
+version = "Hfqh79Wm"
