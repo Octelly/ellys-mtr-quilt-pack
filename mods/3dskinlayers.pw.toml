@@ -1,17 +1,3 @@
-name = "3D Skin Layers"
-filename = "3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JHapWF9O/3dskinlayers-fabric-1.5.2-mc1.19.1.jar"
-hash-format = "sha1"
-hash = "2d5587e0ad79685bd3fdd369d6b0d6d3c7b56bcf"
-
-[update]
-[update.modrinth]
-mod-id = "zV5r3pPn"
-version = "JHapWF9O"
-
-[option]
-optional = true
-default = false
+version https://git-lfs.github.com/spec/v1
+oid sha256:42cec81434ed26c3dfc0a0f091ec558cdab8c5239fbabc26f1549a3f81ef16fb
+size 390

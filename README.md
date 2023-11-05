@@ -1,4 +1,3 @@
-# Elly's MTR Quilt pack
-[![](https://uptime.owo.digital/api/badge/10/uptime?labelPrefix=Official+Server+)](https://uptime.owo.digital/status/mtr)
-
-Made for a private server. Any assets not available elsewhere have all rights reserved.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f294faa9cd7dfe097861a8f94da06129e7066a3b8249d0cb5727b2d233fa0de0
+size 235

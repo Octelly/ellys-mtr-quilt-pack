@@ -1,13 +1,3 @@
-name = "Silk"
-filename = "silk-all-1.9.2.jar"
-side = "server"
-
-[download]
-url = "https://cdn.modrinth.com/data/aTaCgKLW/versions/aE4T3EZa/silk-all-1.9.2.jar"
-hash-format = "sha1"
-hash = "5004e61801c270325ba4263d40dcffd1d1bc93bf"
-
-[update]
-[update.modrinth]
-mod-id = "aTaCgKLW"
-version = "aE4T3EZa"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c64ab9ba7804125a446d385fa721bcf7d7196265f32ca9d98ca6d3ff643b5c1
+size 298

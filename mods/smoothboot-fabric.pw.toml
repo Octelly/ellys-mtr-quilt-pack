@@ -1,13 +1,3 @@
-name = "Smooth Boot (Fabric)"
-filename = "smoothboot-fabric-1.19-1.7.1.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/FWumhS4T/versions/1.19-1.7.1/smoothboot-fabric-1.19-1.7.1.jar"
-hash-format = "sha1"
-hash = "8414cbce145a5f48102e6cc811dfd1459afe44f3"
-
-[update]
-[update.modrinth]
-mod-id = "FWumhS4T"
-version = "r8xRVPEI"
+version https://git-lfs.github.com/spec/v1
+oid sha256:971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314
+size 342

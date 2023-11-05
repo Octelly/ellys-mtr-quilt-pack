@@ -1,16 +1,3 @@
-name = "Elly's MTR Quilt 1.19.2 pack"
-author = "Octelly"
-version = "1.0.0"
-pack-format = "packwiz:1.1.0"
-
-[index]
-file = "index.toml"
-hash-format = "sha256"
-hash = "9ea0ff7c3cefd1c6912553db4a8c9bc7a8756a14dc052aeb449cf1f7dab5519f"
-
-[versions]
-minecraft = "1.19.2"
-quilt = "0.20.2"
-
-[options]
-datapack-folder = "config/openloader/data"
+version https://git-lfs.github.com/spec/v1
+oid sha256:1920ffd39bade3ff5ce03ae462b2518c699e0c2260632eb0194251429b9473db
+size 335

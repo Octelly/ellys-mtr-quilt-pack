@@ -1,13 +1,3 @@
-name = "Realistic Cities"
-filename = "realisticcities-0.4-1.19.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/DcRbwAds/versions/Hfqh79Wm/realisticcities-0.4-1.19.2.jar"
-hash-format = "sha1"
-hash = "4f65912fab2360d09e8b35d7b4ea08fd48bb6222"
-
-[update]
-[update.modrinth]
-mod-id = "DcRbwAds"
-version = "Hfqh79Wm"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2be7b897927ab9aef4329c1d8bc43a11e9c3eb896a3ad09fa4559453e3758d19
+size 332

@@ -1,18 +1,3 @@
-name = "Distant Horizons"
-filename = "DistantHorizons-1.6.9a-1.19.2.jar"
-side = "client"
-
-[download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar"
-hash-format = "sha1"
-hash = "a77fb15f91a7b2838c9d402e9e01ed46a3f0cd02"
-
-[update]
-[update.modrinth]
-mod-id = "uCdwusMi"
-version = "yEUygWBv"
-
-[option]
-optional = true
-default = false
-description = "LOD mod for distant chunks, can dramatically impact performance"
+version https://git-lfs.github.com/spec/v1
+oid sha256:31dcc63fce27be038c1ae6501bba6b9e4c41c7218b8f970059f6b4f33d82c45b
+size 467

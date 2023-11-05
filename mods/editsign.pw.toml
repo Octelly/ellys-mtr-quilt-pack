@@ -1,13 +1,3 @@
-name = "EditSign"
-filename = "EditSign-1.19.2-2.6.0.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/hFMCvH85/versions/1.19.2-2.6.0/EditSign-1.19.2-2.6.0.jar"
-hash-format = "sha1"
-hash = "31cccf9a8d59e2d26924f471e53925e02feefc72"
-
-[update]
-[update.modrinth]
-mod-id = "hFMCvH85"
-version = "cS4enerj"
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c7376b7c419934749cb7d7cc4821020cdbfbe96dba003505bd71ad18d76578
+size 318

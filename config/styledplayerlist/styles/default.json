@@ -1,16 +1,3 @@
-{
-  "id": "default",
-  "name": "Default",
-  "header": [
-    "<gray>Elly's</gray> <c:#b42249>MTR</c> <c:#9722ff>Q<c:#dc29dd>u<c:#27a2fd>i<c:#3344ff>l<c:#9722ff>t<reset> <gray>pack</gray>",
-    "%server:online%<gray>/</gray>%server:max_players%",
-    ""
-  ],
-  "footer": [
-    "",
-    "<bold>TPS</bold>",
-    "<gray>1m: %spark:tps 1m% | 15m: %spark:tps 15m%"
-  ],
-  "hidden": false,
-  "permission": ""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:b303dd2c4552fd629bc924185c1d8846828e821d06ec4d64e2274b135f56c708
+size 402

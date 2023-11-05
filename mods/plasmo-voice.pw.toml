@@ -1,13 +1,3 @@
-name = "Plasmo Voice"
-filename = "plasmovoice-fabric-1.19.2-2.0.7.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/DFKRupnj/plasmovoice-fabric-1.19.2-2.0.7.jar"
-hash-format = "sha1"
-hash = "c3d6b6ca052f77ffc2326b49e4829e80a310546c"
-
-[update]
-[update.modrinth]
-mod-id = "1bZhdhsH"
-version = "DFKRupnj"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e06509ba9ba4a25529e8a5a2c582b4adf01f52b091069e15ec7dd2f857ff3409
+size 338

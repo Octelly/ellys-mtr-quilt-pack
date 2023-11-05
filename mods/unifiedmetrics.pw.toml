@@ -1,13 +1,3 @@
-name = "UnifiedMetrics"
-filename = "unifiedmetrics-platform-fabric-0.3.8.jar"
-side = "server"
-
-[download]
-url = "https://cdn.modrinth.com/data/p1ewR5kV/versions/xwRVtqbA/unifiedmetrics-platform-fabric-0.3.8.jar"
-hash-format = "sha1"
-hash = "d7ec6ebcd6cfa12c3161b0d1ebd620aa7564abb0"
-
-[update]
-[update.modrinth]
-mod-id = "p1ewR5kV"
-version = "xwRVtqbA"
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaded455b268616bdca69855696214269555ce7fb18349f76accf89d9e43c1b0
+size 352

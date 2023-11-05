@@ -1,13 +1,3 @@
-name = "Sidekick"
-filename = "sidekick-fabric-2.0.5+1.19.2.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/goA2JoBi/versions/vgyUhWoc/sidekick-fabric-2.0.5%2B1.19.2.jar"
-hash-format = "sha1"
-hash = "2af4f610eec678e4465b4be9aaf108d31421558d"
-
-[update]
-[update.modrinth]
-mod-id = "goA2JoBi"
-version = "vgyUhWoc"
+version https://git-lfs.github.com/spec/v1
+oid sha256:17550dad30bf938757af3e2852b021683eec3dfccc77e5acb666614ccf1a4835
+size 330
