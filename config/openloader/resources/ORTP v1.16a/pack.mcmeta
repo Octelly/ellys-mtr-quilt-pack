@@ -1,3 +1,6 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:549109ffe43cf9fc3eedd26545c90fdde7aef35ba0a0a5dab6599caf676e9000
-size 108
+{
+  "pack": {
+    "pack_format": 9,
+    "description": "Minecraft Transit Railway\nCustom Resources Example"
+  }
+}

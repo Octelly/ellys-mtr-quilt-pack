@@ -1,17 +1,1 @@
-# Disable Git line ending conversion, to prevent packwiz index hashes changing when committing from Windows
-* -text
-<<<<<<< HEAD
-*.yml filter=lfs diff=lfs merge=lfs -text
-*.packwizignore filter=lfs diff=lfs merge=lfs -text
-*.md filter=lfs diff=lfs merge=lfs -text
-*.json filter=lfs diff=lfs merge=lfs -text
-*.toml filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.mcmeta filter=lfs diff=lfs merge=lfs -text
-*.ogg filter=lfs diff=lfs merge=lfs -text
-*.bbmodel filter=lfs diff=lfs merge=lfs -text
-=======
-* !text !filter !merge !diff
-*.zip filter=lfs diff=lfs merge=lfs -text
->>>>>>> c9c9b6c (Initial commit)
