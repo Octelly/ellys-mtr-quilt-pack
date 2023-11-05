@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:37309a79dff0480da5c8e9235ed1ab27753c56d880fbb00b5bb245664cb3ceac
-size 42469
-=======
 hash-format = "sha256"
 
 [[files]]
@@ -1195,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "809d881d49a5535025e3ed3b74ae714bfbec405e4b7fae234a4bdd51691e0b3a"
+hash = "e75e34f9cbff76ce7a0beb9f70521eef8ae7c2efc498f3f77c45d46f9dd6d5eb"
 metafile = true
 
 [[files]]
@@ -1205,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
+hash = "cc63bbe9baff32acc9b74cef66179d78e9187afe625ef25e8faa05f160714257"
 metafile = true
 
 [[files]]
@@ -1241,6 +1236,11 @@ metafile = true
 [[files]]
 file = "mods/feytweaks.pw.toml"
 hash = "738f853ae75bdace8c5b9acecec03c8d5dcc7d832404b32c0996976008012f72"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
 metafile = true
 
 [[files]]
@@ -1365,7 +1365,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
+hash = "4f45e62ce845e43ea425e4da32bfa3ca450aef194901fe1acb66570ffa5491d6"
 metafile = true
 
 [[files]]
@@ -1489,6 +1489,21 @@ hash = "39bced159e83bc8b6f4a7707cd51ee7307417e45c7c1eb3859750ff9550498ae"
 metafile = true
 
 [[files]]
+file = "mods/russian-metro-addon.pw.toml"
+hash = "6eb04e29e0e7054979b9c48405bed438f953a5e17e64cfd0bf8753ef8c962f65"
+metafile = true
+
+[[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "0e21fa2d8b5fd242d053074972ae95305171ce4557560894e85c1f17ec591a5e"
+metafile = true
+
+[[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "a5e126f6ad485daa023fd7c96dda1ed42b30209b94162497422e71e702394fd8"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "94d8491cd39504b6faa3fb1c3da6233dfc0dbf5d854798a53079fb3f7c5fdfd0"
 metafile = true
@@ -1540,7 +1555,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "fd7aacd55b877a27ce7953171535f1c7973502c0fd1cf482bfae5bc14cd29d35"
+hash = "7abc412903f61a1768dd4fba8106bf8ee30834f74adc3f7e94ca98400c5d1733"
+metafile = true
+
+[[files]]
+file = "mods/tabtps.pw.toml"
+hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
 metafile = true
 
 [[files]]
