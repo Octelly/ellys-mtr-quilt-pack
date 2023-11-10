@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/static.yml"
-hash = "8febd78f6df699250fafe9824b34b11980ca393e4861cad05bce3e8915b77ec7"
-
-[[files]]
 file = "config/feytweaks.json"
 hash = "2f2aeccb3477a9d1479dd0aa9b2df6c48fcea8d28ba393cfcb6df84e48e0d436"
 
