@@ -13,6 +13,4 @@ minecraft = "1.19.2"
 quilt = "0.20.2"
 
 [options]
-
->>>>>>> c9c9b6c (Initial commit)
 datapack-folder = "config/openloader/data"
