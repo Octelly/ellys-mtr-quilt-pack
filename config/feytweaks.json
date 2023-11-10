@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fb9ac760b530986dd8375ee42b771c642978f5cc3026083e1711e1ef6e36ba66
-size 335
+{
+  "toggleMod": true,
+  "hideTexts": true,
+  "textDistance": 50.0,
+  "hideGlow": false,
+  "hideGlowDistance": 50.0,
+  "signCulling": true,
+  "simpleGlow": false,
+  "glowToShadow": false,
+  "fastGlowToShadow": false,
+  "optimizeGlow": true,
+  "hideBeam": false,
+  "beamDistance": 15.0,
+  "beaconCulling": true,
+  "optimizeBeam": true
+}

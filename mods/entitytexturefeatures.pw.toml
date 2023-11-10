@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:cc63bbe9baff32acc9b74cef66179d78e9187afe625ef25e8faa05f160714257
-size 381
-=======
 name = "[ETF] Entity Texture Features"
 filename = "entity_texture_features_fabric_1.19.2-4.6.1.jar"
 side = "client"

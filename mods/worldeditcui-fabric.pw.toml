@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:d169757ed261a9c56058036f6765e0253d3a21270fdcd9ef55e3aa5d47562a36
-size 268
-=======
 name = "WorldEdit CUI (Fabric)"
 filename = "WorldEditCUI-1.19.2+01.jar"
 side = "client"
@@ -16,4 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4083243
 project-id = 402098
->>>>>>> c9c9b6c (Initial commit)

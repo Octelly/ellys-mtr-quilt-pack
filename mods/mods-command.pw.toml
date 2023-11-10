@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9a0979c57e0a66fc4f211e8f82802bbf0bfc50d942ee0e08a91c4c0649f4d536
-size 334
+name = "Mods Command"
+filename = "mods-command-mc1.19.2-1.0.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/PExmWQV8/versions/PcOKsQZR/mods-command-mc1.19.2-1.0.11.jar"
+hash-format = "sha1"
+hash = "9b28a31a2ac7a4dc1f548fb37750d0f56a7cc079"
+
+[update]
+[update.modrinth]
+mod-id = "PExmWQV8"
+version = "PcOKsQZR"

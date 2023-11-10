@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:462d8388d0c7bcf9e876d552fe6b0f9649758b666b888255c7b7b8e99a0a08a9
-size 319
+name = "EMI"
+filename = "emi-1.0.24+1.19.2+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/qpiHDyUC/emi-1.0.24%2B1.19.2%2Bfabric.jar"
+hash-format = "sha1"
+hash = "8708be8ca4094cad59c72130f937fd600bab2323"
+
+[update]
+[update.modrinth]
+mod-id = "fRiHVvU7"
+version = "qpiHDyUC"

@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23813d4ca5f22722ebeb5b652d4d570ffa13686fcbf400504554694810ba3ba5
-size 323
+name = "CustomHud"
+filename = "custom_hud-3.1.0+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/a67KVfJy/custom_hud-3.1.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "308d9303d5ed257ffa8e74f28a5f1326b88a1994"
+
+[update]
+[update.modrinth]
+mod-id = "6jis0UTI"
+version = "a67KVfJy"

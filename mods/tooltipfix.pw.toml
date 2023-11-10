@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4
-size 318
-=======
 name = "ToolTipFix"
 filename = "tooltipfix-1.1.1-1.19.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "a5693f4886c190cc7bd66afdff063ebe333b2d6c"
 [update.modrinth]
 mod-id = "2RKFTmiB"
 version = "xDXBXur9"
->>>>>>> c9c9b6c (Initial commit)

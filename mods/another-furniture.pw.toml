@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:43384454eec899c2ef7e2c95a2bc5916792b9c885377b5485674bed373b41774
-size 355
-=======
 name = "Another Furniture"
 filename = "another_furniture-fabric-1.19.2-2.1.4.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "b4c10f57796cf38b6fee9827c5d2aa51db5d3fdb"
 [update.modrinth]
 mod-id = "ulloLmqG"
 version = "9bA8xobS"
->>>>>>> c9c9b6c (Initial commit)

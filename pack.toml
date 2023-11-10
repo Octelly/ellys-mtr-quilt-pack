@@ -6,13 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "37309a79dff0480da5c8e9235ed1ab27753c56d880fbb00b5bb245664cb3ceac"
+hash = "d5cb1594fe6fca3159af4a838435dd18412206146154e8f99afd56dd247eb724"
 
 [versions]
 minecraft = "1.19.2"
 quilt = "0.20.2"
 
 [options]
-
->>>>>>> c9c9b6c (Initial commit)
 datapack-folder = "config/openloader/data"

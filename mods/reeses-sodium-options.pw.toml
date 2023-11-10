@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6
-size 380
-=======
 name = "Reese's Sodium Options"
 filename = "reeses_sodium_options-1.6.4+mc1.19.2-build.93.jar"
 side = "client"
@@ -16,4 +11,3 @@ hash = "b3e82b1a9a226575dff81690559281d02e417e23"
 [update.modrinth]
 mod-id = "Bh37bMuy"
 version = "uCsFu5xs"
->>>>>>> c9c9b6c (Initial commit)

@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134
-size 329
-=======
 name = "Model Gap Fix"
 filename = "modelfix-1.8-fabric (1).jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "2702ce386bb0e84ea7bc5cac86c314e38389fc89"
 [update.modrinth]
 mod-id = "QdG47OkI"
 version = "7ainrOrH"
->>>>>>> c9c9b6c (Initial commit)

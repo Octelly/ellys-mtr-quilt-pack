@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888
-size 324
-=======
 name = "Geckolib"
 filename = "geckolib-quilt-1.19-3.1.41.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "010e78434664d9d8843cc05e15d0378a52a1811e"
 [update.modrinth]
 mod-id = "8BmcQJ2H"
 version = "YaWDUJEE"
->>>>>>> c9c9b6c (Initial commit)

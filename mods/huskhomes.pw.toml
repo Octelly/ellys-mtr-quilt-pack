@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e5eb23504f8910229b76507cb93528d12d3470135c10b5e26724e0943c7067ca
-size 317
+name = "HuskHomes"
+filename = "HuskHomes-Fabric-4.3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J6U9o3JG/versions/of5PaGLb/HuskHomes-Fabric-4.3.2.jar"
+hash-format = "sha1"
+hash = "b344ff994bb5330726888aae7a7ecfdeb7f609f6"
+
+[update]
+[update.modrinth]
+mod-id = "J6U9o3JG"
+version = "of5PaGLb"

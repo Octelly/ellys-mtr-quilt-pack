@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c
-size 324
-=======
 name = "Carpet-Fixes"
 filename = "carpet-fixes-1.19-1.12.2.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "e351e13c1dd6c5d9b96a10612aa8eba573ecef7c"
 [update.modrinth]
 mod-id = "7Jaxgqip"
 version = "IhpVAiXl"
->>>>>>> c9c9b6c (Initial commit)

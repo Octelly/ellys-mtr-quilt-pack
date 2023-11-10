@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72
-size 342
-=======
 name = "Carpet"
 filename = "fabric-carpet-1.19.2-1.4.84+v221018.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "9a88c3a004b15b1f776c988d8eae1cc191b4fbee"
 [update.modrinth]
 mod-id = "TQTTVgYE"
 version = "SaOHo2Ac"
->>>>>>> c9c9b6c (Initial commit)

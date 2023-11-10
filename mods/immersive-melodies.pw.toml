@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd45d400a8a5eee74ab59486103f33d552aba1a6df2ce3835e975ed730c0bc1e
-size 360
+name = "Immersive Melodies"
+filename = "immersive_melodies-0.1.0+1.19.2-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/Vyh4hQI3/immersive_melodies-0.1.0%2B1.19.2-fabric.jar"
+hash-format = "sha1"
+hash = "e2c53e1785fa9d53923b51fe4629b8e8b18954c7"
+
+[update]
+[update.modrinth]
+mod-id = "TaSmHw8V"
+version = "Vyh4hQI3"

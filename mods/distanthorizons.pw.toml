@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:31dcc63fce27be038c1ae6501bba6b9e4c41c7218b8f970059f6b4f33d82c45b
-size 467
-=======
 name = "Distant Horizons"
 filename = "DistantHorizons-1.6.9a-1.19.2.jar"
 side = "client"
@@ -21,4 +16,3 @@ version = "yEUygWBv"
 optional = true
 default = false
 description = "LOD mod for distant chunks, can dramatically impact performance"
->>>>>>> c9c9b6c (Initial commit)

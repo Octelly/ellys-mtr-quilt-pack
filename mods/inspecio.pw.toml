@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd
-size 316
+name = "Inspecio"
+filename = "inspecio-1.6.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a93H3mKU/versions/1.6.0%2B1.19/inspecio-1.6.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "ef272ed0e6d992596d45a063581bf9c79b9c894f"
+
+[update]
+[update.modrinth]
+mod-id = "a93H3mKU"
+version = "ajfDYyUy"

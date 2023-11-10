@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281
-size 441
-=======
 name = "Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)"
 filename = "qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "25670c34698025b31db03d31913a547b81bd87cd"
 [update.modrinth]
 mod-id = "qvIfYCYJ"
 version = "BTCxVi75"
->>>>>>> c9c9b6c (Initial commit)

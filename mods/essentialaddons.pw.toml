@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:c8183377f45125218881b985421e08e728800a7db1f42e091310ae9a6e853b18
-size 335
+name = "EssentialAddons"
+filename = "essentialaddons-1.19.2-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WQaouc1/versions/NqwzccaW/essentialaddons-1.19.2-1.2.1.jar"
+hash-format = "sha1"
+hash = "c89d2d9082ee4a405db1a41dc01abdd2297d2f90"
+
+[update]
+[update.modrinth]
+mod-id = "3WQaouc1"
+version = "NqwzccaW"

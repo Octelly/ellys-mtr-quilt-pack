@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:12d5cb1670328344158d4ccd553f58f75d86907576fc76955e9c18e7c974570d
-size 273
-=======
 name = "Configured (Fabric)"
 filename = "configured-fabric-2.0.0-1.19.2.jar"
 side = "client"
@@ -16,4 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4010582
 project-id = 667378
->>>>>>> c9c9b6c (Initial commit)

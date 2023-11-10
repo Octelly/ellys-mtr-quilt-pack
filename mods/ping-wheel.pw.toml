@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6ac7786f53a8f459b7d8af80fc6858d3dd3ecf610c96ce70649344941a7a2d82
-size 334
+name = "Ping Wheel"
+filename = "Ping-Wheel-1.6.0-fabric-1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/XyeOiyDj/Ping-Wheel-1.6.0-fabric-1.19.2.jar"
+hash-format = "sha1"
+hash = "35bc969af38703e472b1c8919f2684868775fce7"
+
+[update]
+[update.modrinth]
+mod-id = "QQXAdCzh"
+version = "XyeOiyDj"

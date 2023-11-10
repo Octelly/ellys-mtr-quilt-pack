@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-version https://git-lfs.github.com/spec/v1
-oid sha256:7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282
-size 332
-=======
 name = "Architectury API"
 filename = "architectury-6.5.85-fabric.jar"
 side = "both"
@@ -16,4 +11,3 @@ hash = "5795f772ea4a72049e38848eac80a005b01211d9"
 [update.modrinth]
 mod-id = "lhGA9TYQ"
 version = "HoIJp48v"
->>>>>>> c9c9b6c (Initial commit)
