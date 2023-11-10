@@ -2,4 +2,8 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude README
-/README.md
+README.md
+
+# Exclude Git/Hub stuff
+.github
+.gitattributes
