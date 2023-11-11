@@ -1,3 +1,15 @@
-version https: //git-lfs.github.com/spec/v1
-oid sha256:b303dd2c4552fd629bc924185c1d8846828e821d06ec4d64e2274b135f56c708
-size 402
+{
+    "CONFIG_VERSION_DONT_TOUCH_THIS": 1,
+    "_comment": "Before changing anything, see https://github.com/Patbox/StyledPlayerList#configuration",
+    "defaultStyle": "default",
+    "updateRate": 20,
+    "displayOnSingleplayer": true,
+    "switchMessage": "<green>✔<reset> <gray>style changed to<reset> <white>${style}<reset>",
+    "unknownStyleMessage": "<orange>⚠<reset> <gray>style not found<reset>",
+    "permissionMessage": "<red>You don't have required permissions!</red>",
+    "changePlayerName": true,
+    "playerNameFormat": "%luckperms:prefix% %player:displayname%",
+    "updatePlayerNameEveryChatMessage": false,
+    "playerNameUpdateRate": 20,
+    "permissionNameFormat": []
+}
